@@ -4,7 +4,7 @@ let a = 4;
  let b =2;
 
 
-/*console.log("a+b",a + b);
+console.log("a+b",a + b);
 
 console.log("a-b",a -  b);
 console.log("a*b",a * b);
@@ -31,28 +31,28 @@ console.log("a =",a ,"& b =",b);
 console.log("++a =",++a);
 
 //Assignment operators
-//a **= 4;
-//console.log("a =",a);
+a **= 4;
+console.log("a =",a);
 
 a += 4; //a=a+4;
 console.log(a);
 
 // comparision operators
-//console.log("4 ==2", a==b);
-//console.log("4!= 2",a != b);
+console.log("4 ==2", a==b);
+console.log("4!= 2",a != b);
 console.log("4 === 2",a===b);
 console.log("4!===2",a!==b);
 console.log("4<2",a<b);
 console.log("4>2",a>b);
 console.log("4>=2",a>=b);
 console.log("4<=2",a<=b);
-//Logical Operators */
+//Logical Operators 
 let cond1 = a> b;
-//let cond2 = a=== b;
+let cond2 = a=== b;
 // AND
-//console.log ("cond1 && cond2 =",cond1 && cond2);
+console.log ("cond1 && cond2 =",cond1 && cond2);
 // OR
-//console.log ("cond1 || cond2 =",a < b|| a===6);
+console.log ("cond1 || cond2 =",a < b|| a===6);
 //NOT
 console.log ("!4>2", !(a>b));
 
