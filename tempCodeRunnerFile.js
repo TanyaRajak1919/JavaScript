@@ -1,7 +1,4 @@
-onst product={
-//     Name : "Ballpen",
-//     rating :4,
-//     offer: 5,
-//     price:270,
-// };
-// console.log(product);
+for(let count=1; count <=10; count++){
+    console.log("Tanya Rajak");
+
+}
