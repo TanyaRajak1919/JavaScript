@@ -7,4 +7,3 @@ for(let val of marks){
 let avg = sum / marks.length;
      console.log(`avg marks of the class= ${avg}`);
 
-
