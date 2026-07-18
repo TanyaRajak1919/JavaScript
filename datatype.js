@@ -8,4 +8,4 @@ const student = {
     cgpa: 7.7,
 
 };
-console.log(typeof student["cgpa"]);
+console.log(typeof student[""]);
